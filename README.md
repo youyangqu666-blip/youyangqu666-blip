@@ -1,4 +1,4 @@
-# Hi there, I'm Qu Youyang 👋
+# Hi there, I'm Youyang Qu 👋
 
 ### 🎓 About Me
 -  **MSc Data Science** at **The University of Manchester** .
@@ -29,8 +29,8 @@
 
 
 ### 📫 Contact Me
-- **LinkedIn**: [www.linkedin.com/in/youyangqu]
-- **Email**: [youyang.qu666@gmail.com]
+- **LinkedIn**: www.linkedin.com/in/youyangqu
+- **Email**: youyang.qu666@gmail.com
 - **Location**: Manchester, UK 🇬🇧 
 
 <!--
