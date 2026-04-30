@@ -25,6 +25,9 @@
 - **Tech**: Python (Machine Learning, Logistic Regression)
 - **Insight**: An end-to-end ML pipeline analyzing refund behavior using AIC/BIC and Likelihood Ratio Tests (LRT).
 
+#### 🕸️ [UK Gender Equality: Topological Data Analysis](https://github.com/youyangqu666-blip/UK-GEI-Topological-Analysis)
+- **Tech**: Python (Ball Mapper, NetworkX, GeoPandas, Scikit-learn)
+- **Insight**: A multi-dimensional study using Topological Data Analysis (TDA) to reveal the structural framework of gender equality across UK districts, identifying socio-economic clusters that traditional linear models miss.
 ---
 
 
